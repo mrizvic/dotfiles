@@ -7,6 +7,7 @@ set expandtab
 set shiftwidth=4
 set softtabstop=4
 set list
+set background=dark
 
 autocmd FileType yaml,yml setlocal ai ts=2 sw=2 et
 
